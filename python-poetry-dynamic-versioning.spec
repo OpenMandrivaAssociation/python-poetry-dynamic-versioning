@@ -19,3 +19,4 @@ Plugin for Poetry to enable dynamic versioning based on VCS tags.
 
 %files
 %{py_sitedir}/*
+%{_bindir}/poetry-dynamic-versioning
